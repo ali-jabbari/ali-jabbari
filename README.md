@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# I'm ali, Web & mobile app developer.
+
 <!--
 **ali-jabbari/ali-jabbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
