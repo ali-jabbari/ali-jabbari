@@ -9,5 +9,7 @@ As a programmer, I specialize in developing web software using modern technologi
 - React
 - Next.js
 - Node.js
-- Kotlin, Java
+- Nest.js, Express.js
+- Django
+- Flutter
 - Android
